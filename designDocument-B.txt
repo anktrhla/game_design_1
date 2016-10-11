@@ -1,7 +1,7 @@
 Design Document
 _____________________________________________________
 
-Group C - Third-person Shooting/Sword-Fighting/Maze game on the Great Wall of China (Themed in China with chinese characters)
+Group B - Third-person Shooting/Sword-Fighting/Maze game on the Great Wall of China (Themed in China with chinese characters)
 _____________________________________________________
 
 This game will be a fight off between the chinese and the mongols to defend the Great Wall of China
