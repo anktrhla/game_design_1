@@ -1,0 +1,36 @@
+Design Document
+_____________________________________________________
+
+Group B - Third-person Shooting/Sword-Fighting/Maze game on the Great Wall of China (Themed in China with chinese characters)
+_____________________________________________________
+
+This game will be a fight off between the chinese and the mongols to defend the Great Wall of China
+
+The Great Defense:
+  The game is based in ancient china where the mongols have attacked and intent to capture the Chinese Empire. It will be an endless         runner game while fighting off the advancing mongol horde and preventing them to breal or cross over the Wall.
+  
+Core Mechanic: 
+  -3D game, with weapons ranging from swords, hand-held bomb guns, knives, etc.
+  -endless runner, and fight off through your run.
+  
+Stuff:
+  -multiple weapons
+  -multiple key characters to select from the ancient chinese empire who each have different abilities.
+  -different costume unlocks for each character; including premium ones.
+  
+Description:
+  the game exists in the ancient china where the most experienced generals of the chinese empire are fighting off the mongolian horde who are trying to attack the empire in order to capture it. The generals are faced with overwhelming odds and are even more determined to fight the horde off. it is an endless runnning game with multiple weapon selections where you fight off an on-coming horde of the mongols who are continously climbing over the wall. As you progress the hordes keep getting stronger and faster, and the game's difficulty keeps advancing.
+  
+Novelty:
+  An endless runner game with a twist of third person fighting/shooting tinge. There aren't a lot of games mixing genre like that which also takes the player through the history of the chinese empire and introducing them to legendary personalities that existed and successfully fought off the Mongolian Horde.
+  
+Testing:
+  -an endless runner consistency in a self-designed prototype.
+  -use of mutiple weapons in different ways.
+  -defining different kinds of special powers each of the legendary chinese generals have.
+  -fighting mechanics while running endlessly (this can get tricky)
+  
+Not Testing: 
+  -More advanced graphics involving various game enviornments.
+  -Computation for the climbing of Mongol Hordes, with waht frequency do they appear, etc.
+  -Target Audience
