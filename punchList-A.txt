@@ -1,0 +1,25 @@
+Punch List
+_____________________________________________________
+
+Group A - FPS Dating Game
+_____________________________________________________
+
+This game will have a merger of a dating app/website and a first-person shooting game.
+
+Art Needed:
+  1. Weapons
+  2. Costumes/Skins
+  3. Game World Designs
+  4. Colorful explosion art
+  
+Systems Needed:
+  1. Tinder API
+  2. Connecting Tinder API with the game built in Unity to support seamless redirection after a succesful match.
+
+Sound/Audio Needed:
+  1. Since the bullet shots won't be like a standard bullet coming from a gun, audio needs to be in sync with the kind of colorful           explosions we create.
+  2. Allow use of microphone for in-game communication.
+  
+Task Dependencies/Rules:
+  1. Without a successful match, the game cannot be inititated.
+  2. Without the users agreeing to meet/socialize, the game cannot concur.
