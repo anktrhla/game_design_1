@@ -1,0 +1,36 @@
+Design Document
+_____________________________________________________
+
+Group A - FPS Dating Game
+_____________________________________________________
+
+This game will have a merger of a dating app/website and a first-person shooting game.
+
+
+Tinder- for Gamers!:
+  It will use the Tinder API to match with real online players, succesful matches will redirected to an online session of a FPS game with   initiate a deathmatch that goes on for 15 rounds, best of 3 matches. The player who loses, takes the winner on a date.
+
+Core Mechanic:
+  Using Tinder API, synced with users' facebook accounts to maintain user legitimacy, matched users can be redirected to an online FPS       game made in unity with abstract enviornment and abstract elements. A total of 3 matches with 15 rounds each will decide the final         winner, the player who loses the game will take the winner on a date or a social outing.
+  
+Stuff:
+  1. Tinder API
+  2. Unity Store Assets
+  3. Game Moderation
+  4. Mirror's Edge-styled theme of the enviornment
+  5. Weapon caches - that will allow weapon upgrades and ammo refills.
+  6. Color explosions and shots instead of intense violence and bloody shots to make it more sociable.
+  
+Description:
+  Regular matching that occurs in Tinder, once the user is matched with another user, they are redirected to an online FPS game where     they shoot it out to decide for a winner. The match will be a best of 3, with 15 rounds each to come to a decisive conclusion. The       loser will take the winner on a date. To make the game more inviting for users who are not used to intense violence and bloody           graphics, the game will utilize colorful explosions instead of blood. This will help make the game more visually beautiful and           appealing as well. This method of "Social Gaming" will encourage gamers to calm their nerves down and at the same time burst the         bubble of introvert personalities to go out and meet new people. There will be a user rating system, which will be defined by factors   such as the fact if they honor their promise of meeting/socializing after they lose a match among many more factors.
+  
+Novelty:
+  There aren't a lot of games that promote users to take out time out of their gaming schedules to meet and socialize. This model     promotes exactly that and essentially "humanizes" the technology we indulge in.
+  
+Testing:
+  1. How well will users/players adapt to this kind of gaming and socializing model?
+  2. What kind of audience will and can be entrapped in this model?
+  
+Not Testing: 
+  1. User preference for what kind of platform they would like to game on (As thiss would be fundamentally designed for the desktop)?
+  2. Gender gaps and divide?
