@@ -1,0 +1,28 @@
+Punch List
+_____________________________________________________
+
+Group B - Third-person Shooting/Sword-Fighting/Maze game on the Great Wall of China (Themed in China with chinese characters)
+_____________________________________________________
+
+This game will be a fight off between the chinese and the mongols to defend the Great Wall of China.
+
+Art Needed:
+  1. Weapons
+  2. Costumes/Skins
+  3. Game World Designs
+  4. Character Designs for the Chinese Generals
+  
+Systems Needed:
+  1. Endless running game mechanic
+  2. Third-person fighting/shooting game mechanic
+  3. Weapon use-case
+  
+Sound/Audio Needed:
+  1. Swiping/slicing audio for swords
+  2. bomb shooting audio
+  3. Running, jumping, sliding audio for characters
+  4. War-cries for all characters
+  
+Task Dependencies/Rules:
+  1. Winning the game is dependent on killig key Mongol generals, if you miss them, you'd score significantly lesser points.
+  2. Colliding with obstacles will slow you down or in some cases causes you to lose your weapon, or special power that you have gained   over time
